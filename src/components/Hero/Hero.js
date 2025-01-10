@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Tushar</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 1 year of experience using FLutter, Angular and
+          I'm a full-stack developer with 1 year of experience using Flutter, Angular and
           NodeJS.
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
