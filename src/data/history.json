@@ -1,0 +1,12 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "The Baap Company",
+    "startDate": "August, 2022",
+    "endDate": "Present",
+    "experiences": ["Designed the Work App", "Integrate the Trip App","Worked on Salesman App",
+    "Completed communication model in ERP App","Worked on Sampark Bharat App","Working on hireHQ web App"],
+    "imageSrc": "images/history/baap.png"
+  }
+  
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Flutter",
+    "imageSrc": "images/skills/angular.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "images/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "images/skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "images/skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "images/skills/node.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "images/skills/angular.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "images/skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "images/skills/mySql.png"
+  }
+]

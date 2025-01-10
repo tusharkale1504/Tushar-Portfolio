@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Salesman",
+    "imageSrc": "images/projects/project.png",
+    "description": "Developed a Salesman app enabling sales professionals to efficiently manage leads, track orders, and run campaigns, streamlining their sales activities.",
+    "skills": ["Flutter", "Express", "Node"]
+
+  },
+  {
+    "title": "ERP App",
+    "imageSrc": "images/projects/project.png",
+    "description": "Implemented a customized ERP system to integrate finance, inventory, and HR, enhancing real-time data visibility, reducing manual processes, and improving decision-making efficiency.",
+    "skills": ["Flutter", "Express", "Node"]
+  },
+  {
+    "title": "Work App",
+    "imageSrc": "images/projects/project.png",
+    "description": "Developed Work App, an intuitive HR platform integrating communication, attendance, and leave management, streamlining tasks and boosting efficiency, available on the Play Store.",
+    "skills": ["Flutter", "Express", "Node"]
+  
+  }
+]
